@@ -1,4 +1,6 @@
 Programmieren mit R für Einsteiger
+
+
 Dieses Repository enthält meine Lösungen für die Aufgaben im Kurs "Programmieren mit R für Einsteiger" von Berry Boessenkool, Prof. Dr. Bert Arnrich und Pia Francesca Rissom, den ich im Selbststudium absolviert habe. Der Kurs ist auf der OpenHPI-Plattform verfügbar.
 
 Über den Kurs
